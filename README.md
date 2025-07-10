@@ -1,3 +1,4 @@
+
 # 🧑‍💻 Dafa Prasetyo
 
 ## 🌟 About Me
@@ -9,34 +10,34 @@ Lately, I’ve been exploring **Machine Learning and AI**, and I'm also slightly
 ## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" height="30"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="30"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="30"/>
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="30"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="30"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="30"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50"/>
 </p>
 
 ## 🛠️ Tools & Frameworks I Use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" height="30"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="30"/>
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="30"/>
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="30"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="30"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="30"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="30"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="30"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="50"/>
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="50"/>
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50"/>
 </p>
 
 ## 📬 Find Me Online
 
 - Email: dafa@example.com  
 - Instagram: @dafatyo  
-- LinkedIn: dafaprasetyo  
+- LinkedIn: [linkedin.com/in/dafa-prasetyo-a9221b281](https://www.linkedin.com/in/dafa-prasetyo-a9221b281/)
 
 ## 📊 GitHub Stats
 
